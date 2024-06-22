@@ -9,3 +9,5 @@
 - [Результат Тест-кейсы](https://github.com/ArtemGorb/mobile/blob/main/G7_MobileTestCases_ArtemG.pdf)
 - [Заведенные баги и фичи](https://github.com/ArtemGorb/mobile/blob/main/Youtrack_Issues_Mobile_AG.xlsx)
 - [Отчет по результатам тестирования](https://github.com/ArtemGorb/mobile/blob/main/TestReport_ShoppingList_AG.pdf)
+## Перехват траффика мобильного устройства с помощью Charles Proxy
+- [Видео выполнения задания](https://github.com/ArtemGorb/mobile/blob/main/Mobile_SnifferTask_AG.mkv)
